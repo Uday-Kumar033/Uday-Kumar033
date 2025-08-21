@@ -61,6 +61,6 @@ I thrive on transforming manual processes into efficient automated workflows, us
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-kumar-70143a292/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/an_uday_singh/)
-[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaysinghpagurkothi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-udaysinghpagurkothi@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaysinghpagurkothi@gmail.com)
 
 </div>
