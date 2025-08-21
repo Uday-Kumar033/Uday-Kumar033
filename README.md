@@ -12,14 +12,14 @@ Hi, I’m Uday Kumar, a passionate DevOps/Cloud Engineer experience in driving s
 
 I thrive on transforming manual processes into efficient automated workflows, using tools like Terraform, Docker, Kubernetes, Jenkins, and Ansible.
 
-🚀 Key Expertise:
-☁️ Cloud Platforms: AWS, GCP
-🔧 Automation & IaC: Terraform, Ansible
-⚙️ CI/CD: Jenkin
-🐳 Containerization: Docker, Kubernetes
-📊 Monitoring & Logging: Grafana, CloudWatch
-🔍 Version Control & SCM: Git, GIT HUB, AWS CodeCommit
-💻 Scripting & Automation: Shell Scripting, Python
+- 🚀 Key Expertise:
+- ☁️ Cloud Platforms: AWS, GCP
+- 🔧 Automation & IaC: Terraform, Ansible
+- ⚙️ CI/CD: Jenkin
+- 🐳 Containerization: Docker, Kubernetes
+- 📊 Monitoring & Logging: Grafana, CloudWatch
+- 🔍 Version Control & SCM: Git, GIT HUB, AWS CodeCommit
+- 💻 Scripting & Automation: Shell Scripting, Python
 
 ---
 
