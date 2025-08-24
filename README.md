@@ -65,6 +65,7 @@ I thrive on transforming manual processes into efficient automated workflows, us
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-repos/?username=Uday-Kumar033&theme=tokyonight&hide_border=true&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=Uday-Kumar033&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-Kumar033&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
