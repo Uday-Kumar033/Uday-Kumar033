@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello Buddy!, Welcome to my Github Profile👋
+# Hello, Welcome to my Github Profile👋
 
 </div>
 
